@@ -1,0 +1,58 @@
+body {
+    background-color: #a9a9a9;
+}
+
+.new-task {
+    background-color: #328284;
+    width: 800px;
+    height: 250px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.938);
+    margin: auto;
+}
+
+.input-title {
+    background-color: #e9e7e9;
+    width: 660px;
+    height: 40px;
+    border-radius: 17px;
+    display: block;
+    position: relative;
+    margin: auto;
+    top: 46px;
+}
+
+.input-description {
+    background-color: #e9e7e9;
+    width: 660px;
+    height: 70px;
+    border-radius: 25px;
+    display: block;
+    position: relative;
+    margin: auto;
+    top: 50px;
+}
+
+.Save-task {
+    background-color: #ffaf00;
+    width: 160px;
+    height: 25px;
+    border-radius: 20px;
+    display: block;
+    position: relative;
+    border: 1px solid #fff;
+    margin: auto;
+    text-align: center;
+    top: 56px;
+}
+
+.task {
+    background-color: burlywood;
+    width: 1200px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.938);
+    position: relative;
+    margin: 5px 7em auto;
+    top: 56px;
+}
